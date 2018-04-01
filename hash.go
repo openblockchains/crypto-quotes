@@ -3,7 +3,7 @@ package main
 import(
    "fmt"
    "crypto/sha256"
-	 "encoding/hex"
+   "encoding/hex"
    "strconv"
    "math/big"
  )
@@ -13,8 +13,8 @@ import(
 func calcHash( bytes []byte ) string {
   h := sha256.New()
   h.Write( bytes )
-	hashed := h.Sum( nil )   // check why nil para?
-	return hex.EncodeToString(hashed)
+  hashed := h.Sum( nil )   // check why nil para?
+  return hex.EncodeToString(hashed)
 }
 
 
