@@ -1,3 +1,9 @@
+///// sha256 hash with go (lang)
+//
+//  https://golang.org/pkg/crypto/sha256/
+//
+
+
 package main
 
 import(
@@ -6,35 +12,95 @@ import(
    "encoding/hex"
    "strconv"
    "math/big"
+   "io/ioutil"
  )
 
 
+func calcHashFromBytesV1( bytes []byte ) string {
+   h := sha256.New()
+   h.Write( bytes )
+   hashed := h.Sum( nil )   // check why nil para?
+   return hex.EncodeToString(hashed)
+}
 
-func calcHash( bytes []byte ) string {
+func calcHashFromBytesV2( bytes []byte ) string {
+   return calcHashFromBytesV1( bytes )   // fix!!: type syntax error
+   // hashed  := sha256.Sum256( bytes )
+   // err =>  cannot use hashed (type [32]byte) as type []byte in argument to hex.EncodeToString
+   // return hex.EncodeToString( hashed )
+
+   // or single line => return hex.EncodeToString( sha256.Sum256( bytes ) ))
+}
+
+
+func calcHashFromString( str string ) string {
+   h := sha256.New()
+   h.Write( []byte(str) )
+   hashed := h.Sum( nil )   // check why nil para?
+   return hex.EncodeToString(hashed)
+}
+
+func calcHash( data interface{} ) string {
+
   h := sha256.New()
-  h.Write( bytes )
+
+  switch v := data.(type) {
+      default:
+          fmt.Printf( "calcHash - unexpected type %T", v )   // panic!! why? why not?
+      case []byte:
+          h.Write( v )
+      case string:
+          h.Write( []byte(v) )
+      }
+
   hashed := h.Sum( nil )   // check why nil para?
   return hex.EncodeToString(hashed)
 }
 
 
 func main() {
-  fmt.Println( calcHash( []byte( "Hello, Cryptos!" ) ))
-  fmt.Println( calcHash( []byte( "Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos!" ) ))
 
-  fmt.Println( calcHash( []byte( "Your Name Here" ) ))
-  fmt.Println( calcHash( []byte( "Data Data Data Data" ) ))
+  fmt.Printf( "%x\n", sha256.Sum256( []byte("Hello, Cryptos!") ))
 
-  fmt.Println( calcHash( []byte( `Data Data Data Data Data Data
+
+  fmt.Println( calcHashFromBytesV1( []byte("Hello, Cryptos!") ))
+  fmt.Println( calcHashFromBytesV2( []byte("Hello, Cryptos!") ))
+  fmt.Println( calcHashFromString( "Hello, Cryptos!" ))
+
+  fmt.Println( calcHash( "Hello, Cryptos!" ))
+  fmt.Println( calcHash( []byte("Hello, Cryptos!") ))
+
+
+  fmt.Println( calcHash( "Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos!" ))
+
+  fmt.Println( calcHash( "Your Name Here" ))
+  fmt.Println( calcHash( "Data Data Data Data" ))
+
+  fmt.Println( calcHash( `Data Data Data Data Data Data
   Data Data Data Data Data Data
   Data Data Data Data Data Data
   Data Data Data Data Data Data
-  Data Data Data Data Data Data` ) ))
+  Data Data Data Data Data Data` ))
 
-  fmt.Println( len(calcHash( []byte( "Hello, Cryptos!" ) )))
-  fmt.Println( len(calcHash( []byte( "Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos!" ) )))
 
-  hex := calcHash( []byte( "Hello, Cryptos!" ) )
+  // from a file
+  //  -- alternative - use f=os.Open(".txt") and io.Copy( h, f )
+  //
+  txt, err := ioutil.ReadFile( "./transactions.txt" )
+  if err != nil {
+      fmt.Printf( "Error in reading file: %s\n", err )
+      // use log.Fatal(err) -- why? why not??
+  } else {
+    fmt.Println( calcHash( txt ) )
+  }
+
+
+  fmt.Println( len(calcHash( "Hello, Cryptos!" )))
+  // => 64
+  fmt.Println( len(calcHash( "Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos!" )))
+  // => 64
+
+  hex := calcHash( "Hello, Cryptos!" )
   fmt.Println( hex )
 
 
