@@ -53,7 +53,7 @@ you can make the price of Bitcoin whatever you want - until too many people
 try and cash out, that is.
 
 
-Find more in [**`Amy_Castor.yml` »**](Amy_Castor.yml.yml)
+Find more in [**`Amy_Castor.yml` »**](Amy_Castor.yml)
 
 
 ---
