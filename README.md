@@ -5,7 +5,7 @@ A collection of (best of) crypto quotes from bitcoin maximalists, no coiners, ol
 
 Why?
 
-Originally started for a crypto quote of the day service / tool.
+Originally started for a crypto quote of the day service / tool, see [`cryptoquotes`](https://github.com/rubycoco/blockchain/tree/master/cryptoquotes). 
 
 Q: Anybody else using these quotes? I don't know really.
 
@@ -134,7 +134,7 @@ most Bitcoin exchanges will not survive the third act.
 Find more in [**`Patrick_McKenzie.yml` »**](Patrick_McKenzie.yml)
 
 
----
+
 
 
 
