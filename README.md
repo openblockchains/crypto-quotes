@@ -143,6 +143,25 @@ most Bitcoin exchanges will not survive the third act.
 
 Find more in [**`Patrick_McKenzie.yml` »**](Patrick_McKenzie.yml)
 
+---
+
+Just printed $200,000,000 USDT!
+
+Total circulating USDT (Tehter) Supply: $20,533,323,926
+
+  §
+
+Just printed $37,806,778 USDC!
+
+Total circulating USDC (USD Coin) supply: $3,308,104,351
+
+  §
+
+Just printed $29,807,927 TUSD!
+
+Total circulating TUSD (True USD) supply: $514,347,179
+
+Find more in [**`Crypto_US$_Stablecoin_Printer.yml` »**](Crypto_US$_Stablecoin_Printer.yml)
 
 ---
 
