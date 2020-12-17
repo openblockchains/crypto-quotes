@@ -144,10 +144,52 @@ most Bitcoin exchanges will not survive the third act.
 Find more in [**`Patrick_McKenzie.yml` »**](Patrick_McKenzie.yml)
 
 
+---
 
+WOO NUMBER GO UP!!!
 
+Who needs adoption when you can have Institutional Investors! 
+Why bank the unbanked when you can bank the banks! 
+Bring out the champaign because NUMBER GO UP!!!
 
+Am I price posting right?
 
+  §
 
+BREAKING: BITCOIN JUST BROKE $22 000!
 
+We have just reached escape velocity.
 
+> Austrian Maximalist I comments:
+>
+> 1 Bitcoin = 1 Honda Civic
+>
+> Soon:
+>
+> 1 Bitcoin = 1 Tesla, then
+> 1 Bitcoin = 1 Lambo, then
+> 1 Bitcoin = 1 Super Yacht
+>
+> Austrian Maximalist II comments:
+>
+> Just keep HODLing until 1 Bitcoin = 1 Moonbase
+
+  §
+
+Imagine not buying Bitcoin at $22 - $30 because you think you missed the bus at $10 ... 
+I am here to tell you it's the same now with $22 000 - $30 000. 
+Buying at $10 000 versus $22 000 won't matter in the long run.
+
+> Austrian Maximalist comments:
+>
+>  I cured my fear of missing out (FOMO) at $9 000, $11 000 and $20 000, 
+>  by buying without waiting for the dip.
+
+  §
+
+Bitcoin Classic (BTC) is really ridiculous; in what world is paying $15 to move a mere $90 ok? 
+This is literally worst than PayPal, Western Union and my bank COMBINED 
+(it costs the same if I were to send with all three TOGETHER). 
+I clearly see the use-case for Bitcoin Cash (BCH) now.
+
+Find more in [**`Bitcoiner.yml` »**](Bitcoiner.yml)
