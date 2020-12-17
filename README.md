@@ -147,7 +147,7 @@ Find more in [**`Patrick_McKenzie.yml` »**](Patrick_McKenzie.yml)
 
 Just printed $200,000,000 USDT!
 
-Total circulating USDT (Tether) Supply: $20,533,323,926
+Total circulating USDT (Tether) supply: $20,533,323,926
 
   §
 
