@@ -187,6 +187,16 @@ Buying at $10 000 versus $22 000 won't matter in the long run.
 
   §
 
+Right now at the all-time high (ATH) no one who has HODL is down. That's a good feeling.
+
+I HODL, you HODL, we HODL!
+
+> Austrian Maximalist comments:
+>
+>  I bought at the all-time high (ATH) and I'm UP.
+
+  §
+
 Bitcoin Classic (BTC) is ridiculous; in what world is paying $15 to move a mere $90 ok? 
 This is literally worst than PayPal, Western Union and my bank COMBINED 
 (it costs the same if I were to send with all three TOGETHER). 
