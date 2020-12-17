@@ -1,3 +1,13 @@
+> SEC Investor Education:
+> - Don't understand an investment?
+> - Don't invest in it.
+
+Yes, but what if there's only 21 million of it?
+
+  \- Trolly McTrollface
+
+
+
 # 100+ Crypto Quotes - On the New New "In Math We Trust" Ponzi Economics - On Get-Rich-Quick Blockchain Secrets - On Bitcon Maximalists, Scammers, Morons, Clowns, Shills & BagHODLers and More
 
 A collection of (best of) crypto quotes from bitcoin maximalists, no coiners, old school world economists, blockchain journalist & researchers, and more.
@@ -5,7 +15,7 @@ A collection of (best of) crypto quotes from bitcoin maximalists, no coiners, ol
 
 Why?
 
-Originally started for a crypto quote of the day service / tool, see [`cryptoquotes`](https://github.com/rubycoco/blockchain/tree/master/cryptoquotes). 
+Originally started for a crypto quote of the day service / tool, see [`cryptoquotes`](https://github.com/rubycoco/blockchain/tree/master/cryptoquotes).
 
 Q: Anybody else using these quotes? I don't know really.
 
