@@ -148,7 +148,7 @@ Find more in [**`Patrick_McKenzie.yml` »**](Patrick_McKenzie.yml)
 
 WOO NUMBER GO UP!!!
 
-Who needs adoption when you can have Institutional Investors! 
+Who needs adoption when you can have institutional investors! 
 Why bank the unbanked when you can bank the banks! 
 Bring out the champaign because NUMBER GO UP!!!
 
@@ -187,7 +187,7 @@ Buying at $10 000 versus $22 000 won't matter in the long run.
 
   §
 
-Bitcoin Classic (BTC) is really ridiculous; in what world is paying $15 to move a mere $90 ok? 
+Bitcoin Classic (BTC) is ridiculous; in what world is paying $15 to move a mere $90 ok? 
 This is literally worst than PayPal, Western Union and my bank COMBINED 
 (it costs the same if I were to send with all three TOGETHER). 
 I clearly see the use-case for Bitcoin Cash (BCH) now.
