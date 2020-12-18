@@ -8,9 +8,11 @@ Yes, but what if there's only 21 million of it?
 
 
 
-# 100+ Crypto Quotes - On the New New "In Math We Trust" Ponzi Economics - On Get-Rich-Quick Blockchain Secrets - On Bitcon Maximalists, Scammers, Morons, Clowns, Shills & BagHODLers and More
+# 100+ Crypto Quotes -  I HODL, you HODL, we HODL!  -  BREAKING: BITCOIN JUST BROKE $22 000!
 
-A collection of (best of) crypto quotes from bitcoin maximalists, no coiners, old school world economists, blockchain journalist & researchers, and more.
+A collection of (best of) crypto quotes from bitcoin maximalists, no coiners, old school world economists, blockchain journalist & researchers, and more
+on the new new "In Math We Trust" ponzi economics; on get-rich-quick blockchain secrets; on bitcon maximalists, scammers, morons, clowns, shills & bagHODLers and More
+
 
 
 Why?
