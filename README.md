@@ -269,6 +269,10 @@ Find more in [**`Preston_Byrne.yml` »**](Preston_Byrne.yml)
 
 A: I did and I can tell you it is! Number go up! To the moon!
 
+> Austrian Maximalist comments:
+>
+> I think he's asking if it's still early to buy?  Yes, we're always still early.
+
   §
 
 > Washington Post News: 
