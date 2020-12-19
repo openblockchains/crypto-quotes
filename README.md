@@ -293,10 +293,10 @@ There are 3.5 billion smart phones on the planet.
 All of them can hold bitcoin. None of them can hold gold. 
 Bitcoin is the future. Number go up! To the moon!
 
-> Austrian Maximalist comments:
->
-> The future of store of value has always been bitcoin. Take $1.6 Billion in Bitcoin vs in Gold. 
-> Digital 0 and 1s change everything! Zero grams! Zero kilos! Zero tons! 
+> Fact Checker comments:
+> 
+> To be precise, none of the smart phones hold any bitcoin. Bitcoin is on the blockchain. 
+> What you hold in a smartphone is only the private key to sign transactions for your bitcoin on the blockchain. 
 
   §
 
