@@ -260,3 +260,54 @@ I can see how some Bitcoiners might see this as a price worth paying
 in order to access the billions of dollars currently sloshing around in the Bitcoin markets. 
 
 Find more in [**`Preston_Byrne.yml` »**](Preston_Byrne.yml)
+
+
+---
+
+The U.S. Dollar is no longer a reliable store of value. 
+Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. 
+Number go up! To the moon!
+
+  §
+
+> No Coiner asks: 
+> I never invested into Bitcoin is it worth it?
+
+A: I did and I can tell you it is! Number go up! To the moon!
+
+  §
+
+> Washington Post News: 
+>
+> Bitcoin surges past $20 000 for first time.
+
+This Bitcoin rally is the most sophisticated investors, 
+the smartest people in the room, buying the bitcoin quietly.
+Number go up! To the moon!
+
+  §
+
+> "Our fundamental work shows that Bitcoin should be worth 
+>  about $400 000," says Guggenheim's Scott Minerd
+    
+Guggenheim believes in $400 000 Bitcoin! Number go up! To the moon! 
+
+Find more in [**`Tyler_Winklevoss,_Bitcoin_Billionaire.yml` »**](Tyler_Winklevoss,_Bitcoin_Billionaire.yml)
+
+---
+
+ There are 3.5 billion smart phones on the planet. 
+ All of them can hold bitcoin. None of them can hold gold. 
+ Bitcoin is the future. Number go up! To the moon!
+
+  §
+
+Bitcoin will overtake gold. I can't say when, 
+but I can say within the next decade. 
+Bitcoin grew 60x in the past five years. 
+To overtake gold it will need to grow 25x in the next ten years - 
+in other words, grow half as much in twice as much time.
+Number go up! To the moon!
+
+Find more in [**`Cameron_Winklevoss,_Bitcoin_Billionaire.yml` »**](Cameron_Winklevoss,_Bitcoin_Billionaire.yml)
+
