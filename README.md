@@ -296,7 +296,7 @@ Bitcoin is the future. Number go up! To the moon!
 > Fact Checker comments:
 > 
 > To be precise, none of the smart phones hold any bitcoin. Bitcoin is on the blockchain. 
-> What you hold in a smartphone is only the private key to sign transactions for your bitcoin on the blockchain. 
+> What you hold in a smart phone is only the private key to sign transactions for your bitcoin on the blockchain. 
 
   §
 
