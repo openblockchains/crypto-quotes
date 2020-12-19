@@ -313,3 +313,35 @@ Number go up! To the moon!
 
 Find more in [**`Cameron_Winklevoss,_Bitcoin_Billionaire.yml` »**](Cameron_Winklevoss,_Bitcoin_Billionaire.yml)
 
+---
+
+Given the challenge of how to invest $600 million in treasury reserves, 
+after a lifetime of experience and months of analysis, 
+I decided on an allocation of 100% Bitcoin, 
+0% Bonds, 0% Stocks, 0% Real Estate, 0% Gold.  
+Seems rational to me. Number go up! To the moon!
+ 
+> Austrian Maximalist comments:
+> Completely rational. Up by more than 50% already. 
+
+  §
+
+Money is energy. Bitcoin is the first crypto monetary energy network, 
+capable of collecting all the world's liquid energy, 
+storing it over time without power loss, 
+and channeling it across space with negligible impedance. Number go up! To the moon!
+  
+> Austrian Maximalist comments:
+> And it's all represented in this: 21,000,000.00000000
+>
+> Austrian Physicist comments:
+> The science on this is legit respecting the laws of thermodynamics.
+
+  §
+
+Banks once offered savings accounts yielding 5% annual interest, taxable.  
+Today, banks offer 0% interest, or you can choose the Bank of Bitcoin, 
+offering a savings account currently yielding more than 100% annual interest, 
+tax deferred. Number go up! To the moon!
+
+Find more in [**`Michael_Saylor,_Business_Intelligence_Billionaire.yml` »**](Michael_Saylor,_Business_Intelligence_Billionaire.yml)
