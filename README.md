@@ -264,12 +264,6 @@ Find more in [**`Preston_Byrne.yml` »**](Preston_Byrne.yml)
 
 ---
 
-The U.S. Dollar is no longer a reliable store of value. 
-Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. 
-Number go up! To the moon!
-
-  §
-
 > No Coiner asks: 
 > I never invested into Bitcoin is it worth it?
 
@@ -287,18 +281,17 @@ Number go up! To the moon!
 
   §
 
-> "Our fundamental work shows that Bitcoin should be worth 
->  about $400 000," says Guggenheim's Scott Minerd
-    
-Guggenheim believes in $400 000 Bitcoin! Number go up! To the moon! 
+The U.S. Dollar is no longer a reliable store of value. 
+Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. 
+Number go up! To the moon!
 
 Find more in [**`Tyler_Winklevoss,_Bitcoin_Billionaire.yml` »**](Tyler_Winklevoss,_Bitcoin_Billionaire.yml)
 
 ---
 
- There are 3.5 billion smart phones on the planet. 
- All of them can hold bitcoin. None of them can hold gold. 
- Bitcoin is the future. Number go up! To the moon!
+There are 3.5 billion smart phones on the planet. 
+All of them can hold bitcoin. None of them can hold gold. 
+Bitcoin is the future. Number go up! To the moon!
 
   §
 
