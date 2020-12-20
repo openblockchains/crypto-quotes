@@ -333,8 +333,20 @@ The U.S. Dollar is no longer a reliable store of value.
 Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. 
 Number go up! To the moon!
 
-Find more in [**`Tyler_Winklevoss,_Bitcoin_Billionaire.yml` »**](Tyler_Winklevoss,_Bitcoin_Billionaire.yml)
+  §
 
+When Elon Musk puts the Tesla balance sheet into Bitcoin, 
+we'll have to change the Bitcoin rallying cry from 
+"to the moon!" to "to Mars!"
+
+> Austrian Maximalist I comments:
+>  Let's use solar energy to mine bitcoin with satellites in space!
+>
+> Austrian Maximalist II comments:
+>  Tesla would be the first ten trillion dollar company! Number go up!
+
+
+Find more in [**`Tyler_Winklevoss,_Bitcoin_Billionaire.yml` »**](Tyler_Winklevoss,_Bitcoin_Billionaire.yml)
 
 
 ### Cameron Winklevoss, Bitcoin Billionaire
@@ -359,6 +371,17 @@ Bitcoin grew 60x in the past five years.
 To overtake gold it will need to grow 25x in the next ten years - 
 in other words, grow half as much in twice as much time.
 Number go up! To the moon!
+
+  §
+
+Over the years many many people have told me that their financial advisor 
+"advised" them to NOT buy bitcoin. $24,000 is a reminder that you should 
+believe in yourself, build your own conviction, and don't let 
+the "experts" distract you from your genius.
+
+> Austrian Maximalist comments:
+>  We're still in the first inning. Number go up!
+
 
 Find more in [**`Cameron_Winklevoss,_Bitcoin_Billionaire.yml` »**](Cameron_Winklevoss,_Bitcoin_Billionaire.yml)
 
@@ -397,5 +420,15 @@ Banks once offered savings accounts yielding 5% annual interest, taxable.
 Today, banks offer 0% interest, or you can choose the Bank of Bitcoin, 
 offering a savings account currently yielding more than 100% annual interest, 
 tax deferred. Number go up! To the moon!
+
+  §
+
+I have purchased over $1.3 billion in bitcoin in past months and 
+would be happy to share my playbook with you offline - 
+from one billionaire to another.
+
+> Austrian Maximalist comments:
+>  The easiest way to put a billion dollars into Bitcoin is 
+>  to put a million dollars in and wait. Number go up!
 
 Find more in [**`Michael_Saylor,_Business_Intelligence_Billionaire.yml` »**](Michael_Saylor,_Business_Intelligence_Billionaire.yml)
