@@ -4,25 +4,32 @@
 
 Yes, but what if there's only 21 million of it?
 
-  \- Trolly McTrollface
+  \- Trolly McTrollface, Bitcoin Greater Fool Court Jester
 
 
 
 # 100+ Best of Crypto Quotes -  I HODL, you HODL, we HODL!  -  BREAKING: BITCOIN JUST BROKE $22 000!
 
-A collection of (best of) crypto quotes from bitcoin maximalists, no coiners, old school world economists, blockchain journalist & researchers, and more
-on the new new "in math we trust" ponzi economics; on get-rich-quick blockchain secrets; on bitcon maximalists, scammers, morons, clowns, shills & bagHODLers and more
+A collection of (best of) crypto quotes on the new new "in math we trust" ponzi economics; 
+on get-rich-quick blockchain secrets; on bitcon maximalists, scammers, morons, clowns, shills & bagHODLers and more
 
 
-Quotes from no coiners, old school world economists, blockchain journalist & researchers, and more:
+a) Quotes from no coiners, old school world economists, blockchain journalist & researchers, and more:
+
 [David Gerard, Blockchain Journalist]() •
+[Amy Castor, Blockchain Journalist() •
 [Trolly_McTrollface, Bitcoin Greater Fool Court Jester]() •
-[Crypto_US$_Stablecoin_Printer]() 
+[Nouriel_Roubini, Economist]() •
+[Patrick_McKenzie, Recovering Japanese Salaryman]() •
+[Crypto_US$_Stablecoin_Printer]() • 
+[Preston Byrne, Blockchain Attorney]()
 
 
-SCAM ALERT! Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLers and more:
+b) Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLers and more:
 
-[Bitcoiner, Greater Fool]()  •
+**SCAM ALERT! SCAM ALERT! SCAM ALERT!**
+
+[Bitcoin Investor, Greater Fool]()  •
 [Tyler Winklevoss, Bitcoin Billionaire]()  •
 [Cameron Winklevoss, Bitcoin Billionaire]()  •
 [Michael Saylor, Business Intelligence Billionaire]()
@@ -66,7 +73,7 @@ If you think this is sustainable, you're a fool.
 Find more in [**`David_Gerard.yml` »** ](David_Gerard.yml)
 
 
----
+### Amy Castor, Blockchain Journalist
 
 
 We have not entered "Post Tether" yet.
@@ -89,7 +96,8 @@ try and cash out, that is.
 Find more in [**`Amy_Castor.yml` »**](Amy_Castor.yml)
 
 
----
+
+### Trolly McTrollface, Bitcoin Greater Fool Court Jester
 
 Congrats on writing about Bitcoin's price without mentioning Tether ($USDT).
 It's like writing about bond yields without mentioning inflation and the Fed.
@@ -114,7 +122,8 @@ This one's just too obvious.
 
 Find more in [**`Trolly_McTrollface.yml` »**](Trolly_McTrollface.yml)
 
----
+
+### Nouriel_Roubini, Economist
 
 Investing in Bitcoin is equivalent to take your portfolio
 to a rigged illegal casino and gamble; at least in legit Las Vegas casinos odds
@@ -146,8 +155,8 @@ You've reinvented numbered bank accounts.»
 
 Find more in [**`Nouriel_Roubini.yml` »**](Nouriel_Roubini.yml)
 
----
 
+### Patrick McKenzie, Recovering Japanese Salaryman 
 
 A friend of mine, who works in finance, asked me to explain what Tether was.
 
@@ -188,7 +197,9 @@ Total circulating TUSD (True USD) supply: $514,347,179
 
 Find more in [**`Crypto_US$_Stablecoin_Printer.yml` »**](Crypto_US$_Stablecoin_Printer.yml)
 
----
+
+
+### Bitcoin Investor, Greater Fool
 
 WOO NUMBER GO UP!!!
 
@@ -248,7 +259,9 @@ I clearly see the use-case for Bitcoin Cash (BCH) now.
 
 Find more in [**`Bitcoiner.yml` »**](Bitcoiner.yml)
 
----
+
+
+### Preston Byrne, Blockchain Attorney
 
 The Bitcoin "Nakamoto Scheme" is an automated hybrid of a Ponzi and pyramid scheme 
 which has, from the perspective of operating a criminal enterprise, 
