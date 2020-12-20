@@ -14,6 +14,23 @@ A collection of (best of) crypto quotes from bitcoin maximalists, no coiners, ol
 on the new new "in math we trust" ponzi economics; on get-rich-quick blockchain secrets; on bitcon maximalists, scammers, morons, clowns, shills & bagHODLers and more
 
 
+Quotes from no coiners, old school world economists, blockchain journalist & researchers, and more:
+[David Gerard, Blockchain Journalist]() •
+[Trolly_McTrollface, Bitcoin Greater Fool Court Jester]() •
+[Crypto_US$_Stablecoin_Printer]() 
+
+
+SCAM ALERT! Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLers and more:
+
+[Bitcoiner, Greater Fool]()  •
+[Tyler Winklevoss, Bitcoin Billionaire]()  •
+[Cameron Winklevoss, Bitcoin Billionaire]()  •
+[Michael Saylor, Business Intelligence Billionaire]()
+
+
+
+
+---
 
 Why?
 
@@ -25,7 +42,11 @@ Add your project here - yes, you can!
 
 
 
+
 ## Best of Crypto Quotes
+
+### David Gerard, Blockchain Journalist
+
 
 If Bitcoin is like an Excel spreadsheet,
 then Ethereum is like a spreadsheet with macros.
@@ -145,7 +166,9 @@ most Bitcoin exchanges will not survive the third act.
 
 Find more in [**`Patrick_McKenzie.yml` »**](Patrick_McKenzie.yml)
 
----
+
+
+### Crypto US$ Stablecoin Printer
 
 Just printed $200,000,000 USDT!
 
@@ -262,7 +285,11 @@ in order to access the billions of dollars currently sloshing around in the Bitc
 Find more in [**`Preston_Byrne.yml` »**](Preston_Byrne.yml)
 
 
----
+
+### Tyler Winklevoss, Bitcoin Billionaire
+
+**SCAM ALERT! SCAM ALERT! SCAM ALERT!** 
+
 
 > No Coiner asks: 
 > I never invested into Bitcoin is it worth it?
@@ -291,7 +318,12 @@ Number go up! To the moon!
 
 Find more in [**`Tyler_Winklevoss,_Bitcoin_Billionaire.yml` »**](Tyler_Winklevoss,_Bitcoin_Billionaire.yml)
 
----
+
+
+### Cameron Winklevoss, Bitcoin Billionaire
+
+**SCAM ALERT! SCAM ALERT! SCAM ALERT!** 
+
 
 There are 3.5 billion smart phones on the planet. 
 All of them can hold bitcoin. None of them can hold gold. 
@@ -313,7 +345,12 @@ Number go up! To the moon!
 
 Find more in [**`Cameron_Winklevoss,_Bitcoin_Billionaire.yml` »**](Cameron_Winklevoss,_Bitcoin_Billionaire.yml)
 
----
+
+
+### Michael Saylor, Business Intelligence Billionaire
+
+**SCAM ALERT! SCAM ALERT! SCAM ALERT!** 
+
 
 Given the challenge of how to invest $600 million in treasury reserves, 
 after a lifetime of experience and months of analysis, 
