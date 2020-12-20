@@ -329,12 +329,6 @@ Number go up! To the moon!
 
   §
 
-The U.S. Dollar is no longer a reliable store of value. 
-Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. 
-Number go up! To the moon!
-
-  §
-
 When Elon Musk puts the Tesla balance sheet into Bitcoin, 
 we'll have to change the Bitcoin rallying cry from 
 "to the moon!" to "to Mars!"
@@ -344,6 +338,12 @@ we'll have to change the Bitcoin rallying cry from
 >
 > Austrian Maximalist II comments:
 >  Tesla would be the first ten trillion dollar company! Number go up!
+
+  §
+
+The U.S. Dollar is no longer a reliable store of value. 
+Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. 
+Number go up! To the moon!
 
 
 Find more in [**`Tyler_Winklevoss,_Bitcoin_Billionaire.yml` »**](Tyler_Winklevoss,_Bitcoin_Billionaire.yml)
