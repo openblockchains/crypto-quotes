@@ -16,24 +16,24 @@ on get-rich-quick blockchain secrets; on bitcon maximalists, scammers, morons, c
 
 a) Quotes from no coiners, old school world economists, blockchain journalist & researchers, and more:
 
-[David Gerard, Blockchain Journalist]() •
-[Amy Castor, Blockchain Journalist]() •
-[Trolly_McTrollface, Bitcoin Greater Fool Court Jester]() •
-[Nouriel Roubini, Economist]() •
-[Patrick McKenzie, Recovering Japanese Salaryman]() •
-[Crypto US$ Stablecoin_Printer]() • 
-[Preston Byrne, Blockchain Attorney]()
+[David Gerard, Blockchain Journalist](#david-gerard-blockchain-journalist) •
+[Amy Castor, Blockchain Journalist](#amy-castor-blockchain-journalist) •
+[Trolly_McTrollface, Bitcoin Greater Fool Court Jester](#trolly-mctrollface-bitcoin-greater-fool-court-jester) •
+[Nouriel Roubini, Economist](#nouriel_roubini-economist) •
+[Patrick McKenzie, Recovering Japanese Salaryman](#patrick-mckenzie-recovering-japanese-salaryman) •
+[Crypto US$ Stablecoin_Printer](#crypto-us-stablecoin-printer) • 
+[Preston Byrne, Blockchain Attorney](#preston-byrne-blockchain-attorney)
 
 
 b) Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLers and more:
 
 **SCAM ALERT! SCAM ALERT! SCAM ALERT!**
 
-[Bitcoiner (BTC), Greater Fool Investor]()  •
-[Bitcoiner (BCH), Cash is King]() •
-[Tyler Winklevoss, Bitcoin Billionaire]()  •
-[Cameron Winklevoss, Bitcoin Billionaire]()  •
-[Michael Saylor, Business Intelligence Billionaire]()
+[Bitcoiner (BTC), Greater Fool Investor](#bitcoiner-btc-greater-fool-investor)  •
+[Bitcoiner (BCH), Cash is King](#bitcoiner-bch-cash-is-king) •
+[Tyler Winklevoss, Bitcoin Billionaire](#tyler-winklevoss-bitcoin-billionaire)  •
+[Cameron Winklevoss, Bitcoin Billionaire](#cameron-winklevoss-bitcoin-billionaire)  •
+[Michael Saylor, Business Intelligence Billionaire](#michael-saylor-business-intelligence-billionaire)
 
 
 
