@@ -29,7 +29,8 @@ b) Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLer
 
 **SCAM ALERT! SCAM ALERT! SCAM ALERT!**
 
-[Bitcoiner, Greater Fool Investor]()  •
+[Bitcoiner (BTC), Greater Fool Investor]()  •
+[Bitcoiner (BCH), Cash is King]() •
 [Tyler Winklevoss, Bitcoin Billionaire]()  •
 [Cameron Winklevoss, Bitcoin Billionaire]()  •
 [Michael Saylor, Business Intelligence Billionaire]()
@@ -198,7 +199,7 @@ Find more in [**`Crypto_US$_Stablecoin_Printer.yml` »**](Crypto_US$_Stablecoin_
 
 
 
-### Bitcoiner, Greater Fool Investor
+### Bitcoiner (BTC), Greater Fool Investor
 
 WOO NUMBER GO UP!!!
 
@@ -249,14 +250,18 @@ I HODL, you HODL, we HODL!
 >
 >  I bought at the all-time high (ATH) and I'm UP.
 
-  §
+Find more in [**`Bitcoiner_(BTC).yml` »**](Bitcoiner_(BTC).yml)
+
+
+
+### Bitcoiner (BCH), Cash is King
 
 Bitcoin Classic (BTC) is ridiculous; in what world is paying $15 to move a mere $90 ok? 
 This is literally worst than PayPal, Western Union and my bank COMBINED 
 (it costs the same if I were to send with all three TOGETHER). 
 I clearly see the use-case for Bitcoin Cash (BCH) now.
 
-Find more in [**`Bitcoiner.yml` »**](Bitcoiner.yml)
+Find more in [**`Bitcoiner_(BCH),_Cash_Is_King.yml` »**](Bitcoiner_(BCH),_Cash_Is_King.yml)
 
 
 
