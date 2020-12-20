@@ -4,7 +4,7 @@
 
 Yes, but what if there's only 21 million of it?
 
-  \- Trolly McTrollface, Bitcoin Greater Fool Court Jester
+  \- Trolly McTrollface
 
 
 
@@ -17,11 +17,11 @@ on get-rich-quick blockchain secrets; on bitcon maximalists, scammers, morons, c
 a) Quotes from no coiners, old school world economists, blockchain journalist & researchers, and more:
 
 [David Gerard, Blockchain Journalist]() •
-[Amy Castor, Blockchain Journalist() •
+[Amy Castor, Blockchain Journalist]() •
 [Trolly_McTrollface, Bitcoin Greater Fool Court Jester]() •
-[Nouriel_Roubini, Economist]() •
-[Patrick_McKenzie, Recovering Japanese Salaryman]() •
-[Crypto_US$_Stablecoin_Printer]() • 
+[Nouriel Roubini, Economist]() •
+[Patrick McKenzie, Recovering Japanese Salaryman]() •
+[Crypto US$ Stablecoin_Printer]() • 
 [Preston Byrne, Blockchain Attorney]()
 
 
@@ -29,11 +29,10 @@ b) Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLer
 
 **SCAM ALERT! SCAM ALERT! SCAM ALERT!**
 
-[Bitcoin Investor, Greater Fool]()  •
+[Bitcoiner, Greater Fool Investor]()  •
 [Tyler Winklevoss, Bitcoin Billionaire]()  •
 [Cameron Winklevoss, Bitcoin Billionaire]()  •
 [Michael Saylor, Business Intelligence Billionaire]()
-
 
 
 
@@ -199,7 +198,7 @@ Find more in [**`Crypto_US$_Stablecoin_Printer.yml` »**](Crypto_US$_Stablecoin_
 
 
 
-### Bitcoin Investor, Greater Fool
+### Bitcoiner, Greater Fool Investor
 
 WOO NUMBER GO UP!!!
 
