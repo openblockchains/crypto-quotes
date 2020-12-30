@@ -21,6 +21,7 @@ a) Quotes from no coiners, old school world economists, blockchain journalist & 
 [Trolly_McTrollface, Bitcoin Greater Fool Court Jester](#trolly-mctrollface-bitcoin-greater-fool-court-jester) •
 [Nouriel Roubini, Economist](#nouriel_roubini-economist) •
 [Patrick McKenzie, Recovering Japanese Salaryman](#patrick-mckenzie-recovering-japanese-salaryman) •
+[Alex de Vries, Bitcoin Sunstainability Researcher](#alex-de-vries-bitcoin-sunstainability-researcher-founder-of-digiconomist) •
 [Crypto US$ Stablecoin_Printer](#crypto-us-stablecoin-printer) • 
 [Preston Byrne, Blockchain Attorney](#preston-byrne-blockchain-attorney)
 
