@@ -473,4 +473,4 @@ To the moon! Number go up!
 >   Sound money vs unsound money, the results are predictable.
 
 
-Find more in [**`Anthony_Pompliano.yml` »**](Anthony_Pompliano.yml)
+Find more in [**`Anthony_Pompliano,_Bitcoin_Cheerleader.yml` »**](Anthony_Pompliano,_Bitcoin_Cheerleader.yml)
