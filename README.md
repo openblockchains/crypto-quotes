@@ -33,8 +33,8 @@ b) Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLer
 [Bitcoiner (BCH), Cash is King](#bitcoiner-bch-cash-is-king) •
 [Tyler Winklevoss, Bitcoin Billionaire](#tyler-winklevoss-bitcoin-billionaire)  •
 [Cameron Winklevoss, Bitcoin Billionaire](#cameron-winklevoss-bitcoin-billionaire)  •
-[Michael Saylor, Business Intelligence Billionaire](#michael-saylor-business-intelligence-billionaire)
-
+[Michael Saylor, Business Intelligence Billionaire](#michael-saylor-business-intelligence-billionaire)  •
+[Anthony Pompliano, Bitcoin Cheerleader, Off The Chain Investment Newsletter Writer (100 000+ Subscribers)](#anthony-pompliano-bitcoin-cheerleader-off-the-chain-investment-newsletter-writer-100-000-subscribers)
 
 
 ---
