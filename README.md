@@ -97,6 +97,39 @@ try and cash out, that is.
 Find more in [**`Amy_Castor.yml` »**](Amy_Castor.yml)
 
 
+### Nouriel_Roubini, Economist
+
+Investing in Bitcoin is equivalent to take your portfolio
+to a rigged illegal casino and gamble; at least in legit Las Vegas casinos odds
+aren't stacked against you as those gambling markets aren't manipulated
+the way Bitcoin is. Instead Bitcoin is manipulated heavily by Tether and whales.
+
+  §
+
+2% of accounts control 95% of bitcoin assets.
+Inequality Gini coefficient of Bitcoin is worse than the one
+of North Korea where Mr Kim and his cronies controls most of the country assets!
+
+  §
+
+No use ever, past, present and future for XRP and Ripple products...
+it is already flopping after spending a fortune and printing a huge amount
+of totally useless XRP. (Now the XRP army of Twitter trolls,
+bots, hired guns and zealots will attack again...)
+
+  §
+
+From Bitfinex'ed:
+«Stablecoins "backed" by USD are technically already illegal.
+  Because if they were to gain traction, people would be able to have numbered,
+  and anonymous, bank accounts.
+
+You've reinvented numbered bank accounts.»
+
+
+Find more in [**`Nouriel_Roubini.yml` »**](Nouriel_Roubini.yml)
+
+
 
 ### Trolly McTrollface, Bitcoin Greater Fool Court Jester
 
@@ -138,41 +171,26 @@ The only way to pay out old Bitcoin investors is to get money from new investors
 The only difference with a genuine Ponzi scheme, is who pays the old investors. 
 It's not the "fraudsters", but exchanges. Neat!
   
-  
+  §
+
+Forget the meme that "Bitcoin transactions are cheap". 
+The true cost of a transaction isn't the "transaction fees" - those are indeed manageable, 
+a few dollars per transaction - but the cost of maintaining the network. 
+As the Bitcoin network currently processes around 300,000 transactions per day at a cost of $28M 
+(plus transaction fees), the true cost of one transaction is around $100.
+
+  §
+
+For the next three and a half years, block rewards will be worth 6.25 Bitcoins, 
+or around 200,000 USD at current prices. 
+
+Remember – there's one block reward every ten minutes, so that's $28M per day. 
+That's a lot of money, and a huge incentive for miners to buy new ASICs and run them, burning electricity.
+[...]
+In a perfect market equilibrium, the cost of mining Bitcoin is equal to the rewards. 
+It's never the exactly the case, but it's a good rule of thumb for evaluating how much it costs to run the network.
+
 Find more in [**`Trolly_McTrollface.yml` »**](Trolly_McTrollface.yml)
-
-
-### Nouriel_Roubini, Economist
-
-Investing in Bitcoin is equivalent to take your portfolio
-to a rigged illegal casino and gamble; at least in legit Las Vegas casinos odds
-aren't stacked against you as those gambling markets aren't manipulated
-the way Bitcoin is. Instead Bitcoin is manipulated heavily by Tether and whales.
-
-  §
-
-2% of accounts control 95% of bitcoin assets.
-Inequality Gini coefficient of Bitcoin is worse than the one
-of North Korea where Mr Kim and his cronies controls most of the country assets!
-
-  §
-
-No use ever, past, present and future for XRP and Ripple products...
-it is already flopping after spending a fortune and printing a huge amount
-of totally useless XRP. (Now the XRP army of Twitter trolls,
-bots, hired guns and zealots will attack again...)
-
-  §
-
-From Bitfinex'ed:
-«Stablecoins "backed" by USD are technically already illegal.
-  Because if they were to gain traction, people would be able to have numbered,
-  and anonymous, bank accounts.
-
-You've reinvented numbered bank accounts.»
-
-
-Find more in [**`Nouriel_Roubini.yml` »**](Nouriel_Roubini.yml)
 
 
 ### Alex de Vries, Bitcoin Sunstainability Researcher, Founder of Digiconomist
