@@ -432,3 +432,45 @@ from one billionaire to another.
 >  to put a million dollars in and wait. Number go up!
 
 Find more in [**`Michael_Saylor,_Business_Intelligence_Billionaire.yml` »**](Michael_Saylor,_Business_Intelligence_Billionaire.yml)
+
+
+### Anthony Pompliano, Bitcoin Cheerleader, Off The Chain Investment Newsletter Writer (100 000+ Subscribers) 
+
+**SCAM ALERT! SCAM ALERT! SCAM ALERT!** 
+
+I always say it is nearly impossible for an investor to have twenty good ideas. 
+
+They have one to five, but lack the conviction and confidence to build heavily concentrated positions.
+
+My single best idea for last few years was Bitcoin. 
+
+It is beautiful to see a thesis materialize.
+To the moon! Number go up!
+
+  §
+
+Bitcoin is the single most important piece of technology that has been created in the last few decades.
+
+It is saving lives, increasing freedom, and giving millions of people hope around the world.
+To the moon! Number go up!
+
+  §
+
+There are an increasing number of buyers, yet a decreasing amount of available Bitcoin. 
+
+Any economics 101 student can predict what happens next.
+To the moon! Number go up!
+
+  §
+
+Bitcoin in circulation: $0.5 trillion.
+Fed Reserve notes in circulation: $2.02 trillion. 
+
+This will flip by the end of 2021. We are watching disruption in real time.
+To the moon! Number go up!
+
+> Austrian Maximalist comments:
+>   Sound money vs unsound money, the results are predictable.
+
+
+Find more in [**`Anthony_Pompliano.yml` »**](Anthony_Pompliano.yml)
