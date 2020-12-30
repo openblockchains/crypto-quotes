@@ -156,6 +156,42 @@ You've reinvented numbered bank accounts.»
 Find more in [**`Nouriel_Roubini.yml` »**](Nouriel_Roubini.yml)
 
 
+### Alex de Vries, Bitcoin Sunstainability Researcher, Founder of Digiconomist
+
+Bitcoin electronic waste generation is at 10.324 kilotonnes per year 
+(comparable to a country like Luxembourg) - see bitcoinelectronicwaste.com 
+
+A footprint of 91.2 grams per unique transaction 
+(equal to the weight of 1.4 'C'-size batteries or 2 golf balls). 
+
+  §
+
+The latest Bitcoin energy consumption index is 77.782 TWh per year 
+(comparable to a country like Chile) - see bitcoinenergyconsumption.com
+
+The energy footprint per unique transaction is 690.8 kWh (enough to power 1 U.S. household for 23.7 days) 
+
+> Austrian Maximalists comments:
+>  Bitcoin will drive a renewable energy revolution.
+
+  §
+
+Bitcoin's TWh usage results in a carbon footprint of 36.95 MtCO2 
+(comparable to a country like New Zealand) - see bitcoinenergyconsumption.com
+
+The carbon footprint per unique transaction is 327.50 kgCO2 (equivalent to 725,861 VISA transactions) 
+
+  §
+
+Note that the share of fossil fuel based energy has been on the rise this year 
+due to the growing popularity of countries like Kazakhstan. 
+This is only expected to rise further: Reuters News -  
+Kazakhstan in talks on $700 million in cryptocurrency mining projects
+
+Find more in [**`Alex_de_Vries.yml` »**](Alex_de_Vries.yml)
+
+
+
 ### Patrick McKenzie, Recovering Japanese Salaryman 
 
 A friend of mine, who works in finance, asked me to explain what Tether was.
