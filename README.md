@@ -120,7 +120,25 @@ By glorifying the act of doing nothing, they reached out to the self-entitled, l
 Every Ponzi scheme relies on the hope that investors won't sell.
 This one's just too obvious.
 
+  §
 
+One argument against Bitcoin being a Ponzi scheme, is that there's no intent to deceive.
+Really? You have thousands of Bitcoin "personalities" spewing out crap daily.
+
+> I believe gold is sunsetting, whereas bitcoin is just starting.
+>
+> I believe the current (or what I call the legacy) system is broken. 
+> And bitcoin fixes this. 
+> 
+> -- Changpeng Zhao ("CZ Binance"), Bitcoin Billionaire, Binance Exchange Founder
+
+  §
+  
+The only way to pay out old Bitcoin investors is to get money from new investors. 
+The only difference with a genuine Ponzi scheme, is who pays the old investors. 
+It's not the "fraudsters", but exchanges. Neat!
+  
+  
 Find more in [**`Trolly_McTrollface.yml` »**](Trolly_McTrollface.yml)
 
 
