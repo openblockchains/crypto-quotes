@@ -24,7 +24,8 @@ a) Quotes from no coiners, old school world economists, blockchain journalist & 
 [Alex de Vries, Bitcoin Sunstainability Researcher](#alex-de-vries-bitcoin-sunstainability-researcher-founder-of-digiconomist) •
 [Patrick McKenzie, Recovering Japanese Salaryman](#patrick-mckenzie-recovering-japanese-salaryman) •
 [Crypto US$ Stablecoin_Printer](#crypto-us-stablecoin-printer) • 
-[Preston Byrne, Blockchain Attorney](#preston-byrne-blockchain-attorney)
+[Preston Byrne, Blockchain Attorney](#preston-byrne-blockchain-attorney)  •
+[Jorge Stolfi, Computer Scientist](#jorge-stolfi-computer-scientist)
 
 
 b) Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLers and more:
