@@ -130,6 +130,31 @@ You've reinvented numbered bank accounts.»
 Find more in [**`Nouriel_Roubini.yml` »**](Nouriel_Roubini.yml)
 
 
+### SEC Investor Education
+
+Ponzi schemes require a constant flow of new money to survive. 
+When it becomes hard to recruit new investors, 
+or when large numbers of existing investors cash out, 
+these schemes collapse.
+
+  §
+
+Ponzi scheme "red flags" - High returns with little or no risk:
+Every investment carries some degree of risk, 
+and investments yielding higher returns typically involve more risk. 
+Be highly suspicious of any "guaranteed" [number-go-up to-the-moon] "investment" opportunity.
+
+  §
+  
+Ponzi scheme "red flags" - Avoid too-good-to-be-true "investments" with claims like:
+- "To the moon! To the mars!" 
+- "Number go up!"
+- "Yearly return of 300+% in 2020!"
+- "Could quadruple in 2021 and rally to $100,000!"   
+  
+Find more in [**`SEC_Investor_Education.yml` »**](SEC_Investor_Education.yml)
+
+
 
 ### Trolly McTrollface, Bitcoin Greater Fool Court Jester
 
