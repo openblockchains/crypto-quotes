@@ -133,6 +133,12 @@ Find more in [**`Nouriel_Roubini.yml` »**](Nouriel_Roubini.yml)
 
 ### SEC Investor Education
 
+A Ponzi scheme is an investment fraud that pays existing investors with funds collected from new investors.
+Ponzi schemes are named after Charles Ponzi. In the 1920s, Ponzi promised investors a 50% return 
+within a few months for what he claimed was an investment in international mail coupons.
+
+  §
+
 Ponzi schemes require a constant flow of new money to survive. 
 When it becomes hard to recruit new investors, 
 or when large numbers of existing investors cash out, 
