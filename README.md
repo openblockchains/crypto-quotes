@@ -18,10 +18,11 @@ a) Quotes from no coiners, old school world economists, blockchain journalist & 
 
 [David Gerard, Blockchain Journalist](#david-gerard-blockchain-journalist) •
 [Amy Castor, Blockchain Journalist](#amy-castor-blockchain-journalist) •
-[Trolly_McTrollface, Bitcoin Greater Fool Court Jester](#trolly-mctrollface-bitcoin-greater-fool-court-jester) •
 [Nouriel Roubini, Economist](#nouriel_roubini-economist) •
-[Patrick McKenzie, Recovering Japanese Salaryman](#patrick-mckenzie-recovering-japanese-salaryman) •
+[SEC Investor Education](#sec-investor-education) •
+[Trolly_McTrollface, Bitcoin Greater Fool Court Jester](#trolly-mctrollface-bitcoin-greater-fool-court-jester) •
 [Alex de Vries, Bitcoin Sunstainability Researcher](#alex-de-vries-bitcoin-sunstainability-researcher-founder-of-digiconomist) •
+[Patrick McKenzie, Recovering Japanese Salaryman](#patrick-mckenzie-recovering-japanese-salaryman) •
 [Crypto US$ Stablecoin_Printer](#crypto-us-stablecoin-printer) • 
 [Preston Byrne, Blockchain Attorney](#preston-byrne-blockchain-attorney)
 
