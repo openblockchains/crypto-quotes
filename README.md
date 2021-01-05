@@ -246,10 +246,10 @@ The energy footprint per unique transaction is 690.8 kWh (enough to power 1 U.S.
 
   §
 
-Bitcoin's TWh usage results in a carbon footprint of 36.95 MtCO2 
+Bitcoin's TWh usage results in a carbon footprint of 36.95 MtCO₂ 
 (comparable to a country like New Zealand) - see bitcoinenergyconsumption.com
 
-The carbon footprint per unique transaction is 327.50 kgCO2 (equivalent to 725,861 VISA transactions) 
+The carbon footprint per unique transaction is 327.50 kgCO₂ (equivalent to 725,861 VISA transactions) 
 
   §
 
