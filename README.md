@@ -22,6 +22,7 @@ a) Quotes from no coiners, old school world economists, blockchain journalist & 
 [SEC Investor Education](#sec-investor-education) •
 [Trolly_McTrollface, Bitcoin Greater Fool Court Jester](#trolly-mctrollface-bitcoin-greater-fool-court-jester) •
 [Alex de Vries, Bitcoin Sunstainability Researcher](#alex-de-vries-bitcoin-sunstainability-researcher-founder-of-digiconomist) •
+[Jemima Kelly, Financial Times Alphaville](#jemima-kelly-financial-times-alphaville-journalist) •
 [Patrick McKenzie, Recovering Japanese Salaryman](#patrick-mckenzie-recovering-japanese-salaryman) •
 [Crypto US$ Stablecoin_Printer](#crypto-us-stablecoin-printer) • 
 [Preston Byrne, Blockchain Attorney](#preston-byrne-blockchain-attorney)  •
