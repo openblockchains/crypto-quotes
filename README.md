@@ -261,6 +261,36 @@ Kazakhstan in talks on $700 million in cryptocurrency mining projects
 Find more in [**`Alex_de_Vries.yml` »**](Alex_de_Vries.yml)
 
 
+### Jemima Kelly, Financial Times Alphaville Journalist
+
+The idea that you can get out of your bitcoin position at any time and the market 
+will stay intact is frankly a nonsense. And that's why the bitcoin religion's "HODL" mantra 
+is so important to be upheld, of course.
+
+Because if people start to sell, bad things might happen!
+
+  §
+
+It is estimated that about 20 per cent of bitcoins have been lost in various ways, 
+never to be recovered. Then there are the so-called "whales" that hold most of the bitcoin, 
+whose dominance of the market has risen in recent months. The top 2.8 per cent of bitcoin addresses 
+now control 95 per cent of the supply (including many that haven't moved any bitcoin for the past half-decade), 
+and more than 63 per cent of the bitcoin supply hasn't been moved for the past year, according to recent estimates.
+
+What all this means is that real liquidity - the actual available supply of bitcoin - is very low indeed.
+
+  §
+
+What we call the "bitcoin price" is in fact only the price of the very small number of bitcoins 
+that wash around the retail market, and doesn't represent the price that 18.6m bitcoins 
+would actually be worth, even if they were all actually available.
+
+So the "market cap" is in this way nonsense multiplied. You times two things together 
+that don't reflect what they claim to - the "circulating supply" and the "price" - and voilà!
+
+Find more in [**`Jemima Kelly,_Financial_Times_Alphaville.yml` »**](Jemima_Kelly,_Financial_Times_Alphaville.yml)
+
+
 
 ### Patrick McKenzie, Recovering Japanese Salaryman 
 
