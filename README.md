@@ -172,6 +172,26 @@ It's like writing about bond yields without mentioning inflation and the Fed.
 
   §
 
+Now you have Tether and $USDT. 22 billion almost dollars governed by a five-page disclaimer 
+that $USDTs are backed by whatever Tether wants, at whatever valuations Tether finds convenient. 
+No credit rating, no bank, no auditor, no offices, no CEO and CFO, no guarantee whatsoever.
+
+  §
+
+The USDT/USD peg is founded on the premise that people won't try to cash out en masse. 
+As long as they don't, USDT printing can continue.
+
+  §
+
+Why should Tether spend all its money (it is theirs, after all -
+$USDT holders don't have a legal claim on Tether's reserves) 
+trying to save the crypto markets, when they collapse? 
+How many years would it take them to rebuild their war chest, 
+assuming that crypto bounces back? 
+Why not party on a yacht in Monaco instead?
+
+  §
+
 People will believe anything, as long as it gives them an easy answer
 to the most important question in the universe: "How can I become rich quickly and without working?"
 
