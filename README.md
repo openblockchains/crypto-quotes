@@ -693,3 +693,72 @@ To the moon! Number go up!
 
 
 Find more in [**`Anthony_Pompliano,_Bitcoin_Cheerleader.yml` »**](Anthony_Pompliano,_Bitcoin_Cheerleader.yml)
+
+
+### Dan McArdle,  Bitcoin "There is No Alternative", Bitcon is the New (Gold) Standard
+
+**GENIUS ALERT! GENIUS ALERT! GENIUS ALERT!**
+
+
+Learn about bitcoin, buy bitcoin, run a bitcoin node. Have sovereign censorship resistant money 
+and get rich along the way.
+
+Bitcoin will change the world, voting [and democracy] won't.
+
+  §
+
+Bitcoin will save the environment. 
+Bitcoin will create a global arbitrage in energy. 
+
+Bitcoin will drive innovation in energy and use of renewables.
+
+  §
+
+Bitcoin is the only investable asset in the "blockchain" market.
+
+Bitcoin has taken all the hits, arrows, bullets.
+
+Bitcoin's success is the thing every shitcoin trades on.
+
+There is no reason to own any shitcoin especially the no.2 in market cap 
+which is nothing more that a scam host.
+
+  §
+
+Bitcoin (BTC) will be the one and only one money. 
+
+Every other shitcoin will go a way and be completely worthless.
+
+Don't buy Bitcoin Cash (BCH). Bitcoin Trash is hazardous waste.
+
+  §
+
+Bitcoin number go up in value because more people want bitcoin.
+Bitcoin becomes more and more valuable.
+
+- 1,000 HODLers
+- 10,000 HODLers
+- 100,000 HODLers
+- 1,000,000 HODLers
+- 10,000,000 HODLers
+- 100,000,000 HODLers
+- 1,000,000,000 HODLers
+- 10,000,000,000 HODLers
+- 100,000,000,000 HODLers and on and on
+
+People will come to understand bitcon.
+
+Find more in [**`Dan_McArdle,_Bitcoin_Standard.yml` »**](Dan_McArdle,_Bitcoin_Standard.yml)
+
+
+---
+
+Found another great crypto quote? Tell us!
+
+Contributions welcome! Just send pull requests.
+
+
+---
+
+Austrian Maximalist comments: Can I ask, when will you admit you were wrong? $50 000 bitcoin? $100 000 bitcoin? $500 000 bitcoin?
+
