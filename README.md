@@ -729,7 +729,7 @@ which is nothing more that a scam host.
 
   §
 
-Bitcoin (BTC) will be the one and only one money. 
+Bitcoin (BTC) will be the one and only money. 
 
 Every other shitcoin will go a way and be completely worthless.
 
