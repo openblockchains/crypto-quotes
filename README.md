@@ -725,7 +725,7 @@ Bitcoin has taken all the hits, arrows, bullets.
 Bitcoin's success is the thing every shitcoin trades on.
 
 There is no reason to own any shitcoin especially the no.2 in market cap 
-which is nothing more that a scam host.
+which is nothing more than a scam host.
 
   §
 
