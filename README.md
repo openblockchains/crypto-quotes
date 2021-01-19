@@ -737,7 +737,7 @@ Don't buy Bitcoin Cash (BCH). Bitcoin Trash is hazardous waste.
 
   §
 
-Bitcoin number go up in value because more people want bitcoin.
+Bitcoin number go up because more people want bitcoin.
 Bitcoin becomes more and more valuable.
 
 - 1,000 HODLers
