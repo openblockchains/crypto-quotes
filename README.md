@@ -40,6 +40,10 @@ b) Quotes from bitcoin maximalists, scammers, morons, clowns, shills & bagHODLer
 [Michael Saylor, Business Intelligence Billionaire](#michael-saylor-business-intelligence-billionaire)  •
 [Anthony Pompliano, Bitcoin Cheerleader, Off The Chain Investment Newsletter Writer (100 000+ Subscribers)](#anthony-pompliano-bitcoin-cheerleader-off-the-chain-investment-newsletter-writer-100-000-subscribers)
 
+**GENIUS ALERT! GENIUS ALERT! GENIUS ALERT!**
+
+[Dan McArdle, Bitcoin "There is No Alternative"](#dan-mcardle--bitcoin-there-is-no-alternative-bitcoin-is-the-new-gold-standard)
+
 
 ---
 
@@ -695,7 +699,7 @@ To the moon! Number go up!
 Find more in [**`Anthony_Pompliano,_Bitcoin_Cheerleader.yml` »**](Anthony_Pompliano,_Bitcoin_Cheerleader.yml)
 
 
-### Dan McArdle,  Bitcoin "There is No Alternative", Bitcon is the New (Gold) Standard
+### Dan McArdle,  Bitcoin "There is No Alternative", Bitcoin is the New (Gold) Standard
 
 **GENIUS ALERT! GENIUS ALERT! GENIUS ALERT!**
 
